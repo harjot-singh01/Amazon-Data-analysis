@@ -1,5 +1,5 @@
 ⭐ README — Amazon Sales Data Analysis Project
-📌 Project Overview
+📌 Project Overview 
 
 This project focuses on cleaning, analyzing, and visualizing Amazon sales data using Python.
 It includes data preprocessing, state-wise correction of ship-state values, category-wise insights, order status distribution, and several graphical visualizations to understand sales patterns.
