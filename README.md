@@ -135,35 +135,6 @@ Seaborn (optional)
 
 Jupyter Notebook
 
-▶️ How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/yourusername/amazon-sales-analysis.git
-
-
-Install required libraries:
-
-pip install pandas matplotlib numpy
-
-
-Open the notebook:
-
-jupyter notebook
-
-
-Run all cells in the analysis file.
-
-📝 Project Files
-├── Amazon Sale Report.csv
-├── analysis.ipynb
-├── cleaned_data.csv
-├── README.md
-└── images/
-       ├── state_sales.png
-       ├── category_sales.png
-       ├── order_status_pie.png
-
 🤝 Contributing
 
 Feel free to submit pull requests or open issues to suggest improvements.
